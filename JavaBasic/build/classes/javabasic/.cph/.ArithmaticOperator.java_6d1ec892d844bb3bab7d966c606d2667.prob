@@ -1,0 +1,1 @@
+{"name":"Local: ArithmaticOperator","url":"d:\\Arthi\\Java\\JavaBasic\\src\\javabasic\\ArithmaticOperator.java","tests":[{"id":1628175920214,"input":"5 6","output":"Sum = 11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Arthi\\Java\\JavaBasic\\src\\javabasic\\ArithmaticOperator.java","group":"local","local":true}
